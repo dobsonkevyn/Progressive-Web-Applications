@@ -24,4 +24,6 @@ WHEN I open my application in my editor
 THEN I should see a client server folder structure
 ``````
 
-https://git@github.com:dobsonkevyn/Progressive-Web-Applications.git
+GITHUB: https://git@github.com:dobsonkevyn/Progressive-Web-Applications.git
+
+HEROKU: https://git.heroku.com/progressivewebapplications1.git
