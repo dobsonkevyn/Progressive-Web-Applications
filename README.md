@@ -24,4 +24,4 @@ WHEN I open my application in my editor
 THEN I should see a client server folder structure
 ``````
 
-git@github.com:dobsonkevyn/Progressive-Web-Applications.git
+https://git@github.com:dobsonkevyn/Progressive-Web-Applications.git
